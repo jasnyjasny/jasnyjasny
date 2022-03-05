@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasnyjasny
-- 👀 I’m interested in Pro gaming
-- 🌱 I’m currently learning HOW TO RUN HELLO WORLD
+- 👀 I’m interested in Programing
+- 🌱 I’m currently learning how to make simple games 
 - 💞️ I’m looking to collaborate on GAMES 
 - 📫 How to reach me bestplayerjasny@gmail.com
 
